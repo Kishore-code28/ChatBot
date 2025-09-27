@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Django local database
+db.sqlite3
+
+# Environment variables
+.env
+
+# VS Code / IDE settings
+.vscode/
